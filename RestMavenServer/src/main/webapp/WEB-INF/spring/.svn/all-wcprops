@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/RestMavenServer/!svn/ver/35/src/main/webapp/WEB-INF/spring
+END
+root-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RestMavenServer/!svn/ver/69/src/main/webapp/WEB-INF/spring/root-context.xml
+END
+servlet-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RestMavenServer/!svn/ver/53/src/main/webapp/WEB-INF/spring/servlet-context.xml
+END

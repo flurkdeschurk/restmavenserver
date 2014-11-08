@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/RestMavenServer/!svn/ver/53/src/test/java/daos
+END
+IngredientenDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RestMavenServer/!svn/ver/78/src/test/java/daos/IngredientenDaoTest.java
+END
+BroodjesDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RestMavenServer/!svn/ver/78/src/test/java/daos/BroodjesDaoTest.java
+END
+BrodenDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/RestMavenServer/!svn/ver/78/src/test/java/daos/BrodenDaoTest.java
+END

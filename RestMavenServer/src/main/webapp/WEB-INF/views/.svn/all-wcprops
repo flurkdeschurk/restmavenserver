@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/RestMavenServer/!svn/ver/27/src/main/webapp/WEB-INF/views
+END
+compose.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RestMavenServer/!svn/ver/66/src/main/webapp/WEB-INF/views/compose.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/RestMavenServer/!svn/ver/57/src/main/webapp/WEB-INF/views/index.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RestMavenServer/!svn/ver/26/src/main/webapp/WEB-INF/views/home.jsp
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/RestMavenServer/!svn/ver/26/src/main/webapp/WEB-INF/views/list.jsp
+END
+editNew.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RestMavenServer/!svn/ver/26/src/main/webapp/WEB-INF/views/editNew.jsp
+END
+detail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RestMavenServer/!svn/ver/26/src/main/webapp/WEB-INF/views/detail.jsp
+END

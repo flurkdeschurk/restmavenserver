@@ -1,0 +1,59 @@
+.display {
+	margin: 20px;
+}
+
+.header {
+	margin: 20px;
+}
+
+.nav-pills>li+li {
+	margin-left : 5px;
+}
+
+.btn.btn-primary.pull-right {
+	margin-left: 5px;
+}
+
+.btn.btn-default.pull-right {
+	margin-left: 5px;
+}
+
+.beleg-component {
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+
+#displayDiv {
+	width: 50%;
+}
+
+.sandwich {
+	width: 88%;
+	height: 150px;
+	float: left;
+	border-radius: 20px;
+	transition: 1s;
+}
+
+.narrowSandwich {
+	width: 25% !important;
+}
+
+.garbage {
+	width: 10%;
+	float: right;
+	height: 150px;
+	border-radius: 20px;
+	background-color: chocolate;
+	transition: 1s;
+}
+
+.bigGarbage {
+	width: 74% !important;
+}
+
+.etalage {
+	width: 100%;
+	display: inline-block;
+}

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 58
+.idea
+.settings
+*.iml
+*.classpath
+*.project
+*.springBeans
+
+END

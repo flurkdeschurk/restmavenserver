@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/RestMavenServer/!svn/ver/26/src/main/webapp/resources/js
+END
+controllers.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RestMavenServer/!svn/ver/60/src/main/webapp/resources/js/controllers.js
+END
+DraggableDirective.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RestMavenServer/!svn/ver/60/src/main/webapp/resources/js/DraggableDirective.js
+END
+broodjesApp.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/RestMavenServer/!svn/ver/57/src/main/webapp/resources/js/broodjesApp.js
+END
+DropTargetDirective.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RestMavenServer/!svn/ver/60/src/main/webapp/resources/js/DropTargetDirective.js
+END
+services.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RestMavenServer/!svn/ver/75/src/main/webapp/resources/js/services.js
+END

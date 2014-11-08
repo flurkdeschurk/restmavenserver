@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/RestMavenServer/!svn/ver/68/src/main/webapp/WEB-INF/spring/datasource
+END
+datasource-dev.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RestMavenServer/!svn/ver/69/src/main/webapp/WEB-INF/spring/datasource/datasource-dev.xml
+END
+datasource-test-cloudbees.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RestMavenServer/!svn/ver/74/src/main/webapp/WEB-INF/spring/datasource/datasource-test-cloudbees.xml
+END
+datasource-prod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RestMavenServer/!svn/ver/68/src/main/webapp/WEB-INF/spring/datasource/datasource-prod.xml
+END
+datasource-test-local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RestMavenServer/!svn/ver/70/src/main/webapp/WEB-INF/spring/datasource/datasource-test-local.xml
+END
